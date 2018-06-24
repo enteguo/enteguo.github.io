@@ -5,7 +5,7 @@ title: 关于我
 
 福州大学在读研究生，通信与信息系统专业，计算机视觉方向
 
-[智能多媒体通信实验室imcl](https://imcl.fzu.edu.cn)
+[智能多媒体通信实验室imcl](http://imcl.fzu.edu.cn)
 
 *** 
 
